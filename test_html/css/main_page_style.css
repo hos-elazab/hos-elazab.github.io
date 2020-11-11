@@ -1,0 +1,25 @@
+* 
+{
+	color:  #239b56;
+}
+h1, h2 
+{
+	color : brown;
+}
+body
+{
+	color : red;
+}
+.class_1
+{
+	color : green;
+}
+#id_12 
+{
+	color : #34495f;
+}
+
+div::selection
+{
+	color : navy;
+}
